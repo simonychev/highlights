@@ -23,4 +23,4 @@ https://simonychev.github.io/highlights/
 - осадки.
 
 <h2>Внешний вид приложения</h2>
-<img src="assets/main.png>
+<img src="./assets/main.png>
