@@ -1,4 +1,4 @@
-Проект Forecast на Vue 3
+<h1>Проект Forecast на Vue 3</h1>
 
 Приложение погоды
 Ссылка на приложение: https://simonychev.github.io/highlights/
