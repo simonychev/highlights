@@ -1,6 +1,7 @@
 Проект Forecast на Vue 3
 
 Приложение погоды
+Ссылка на приложение: https://simonychev.github.io/highlights/
 
 Работает через API на сайте https://openweathermap.org/current
 
